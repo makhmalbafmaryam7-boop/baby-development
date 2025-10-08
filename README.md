@@ -1,5 +1,26 @@
 # baby-development
-This repository is a personal collection of notes, ideas, and activities related to my baby’s development. ,including  Sensory play ideas using household or craft materials   - Milestone tracking (motor skills, speech, attention, and curiosity)   - Reflections and experiences from everyday parenting    
+This repository is a personal collection of notes, ideas, and activities related to my baby's development. ,including  Sensory play ideas using household or craft materials   - Milestone tracking (motor skills, speech, attention, and curiosity)   - Reflections and experiences from everyday parenting
+
+## 📋 Table of Contents
+
+- [🎨 Sensory Play Journal for My Little Daughter](#-sensory-play-journal-for-my-little-daughter)
+- [🌸 Project Purpose](#-project-purpose)
+- [🧩 Early Activities (First Month)](#-early-activities-first-month)
+  - [1️⃣ Tummy Time on High-Contrast Mat](#1️⃣-tummy-time-on-high-contrast-mat)
+  - [2️⃣ Black & White Fabric Book](#2️⃣-black--white-fabric-book)
+- [🌱 Future Ideas](#-future-ideas)
+- [❤️ Personal Note](#️-personal-note)
+- [🧸 Simple Developmental Activities for Babies (Months 2–5)](#-simple-developmental-activities-for-babies-months-25)
+- [🌼 Introduction](#-introduction)
+- [🩷 Month 2: Voice, Words, and Connection](#-month-2-voice-words-and-connection)
+- [🎨 Visual Stimulation and Color Recognition](#-visual-stimulation-and-color-recognition)
+- [🪞 Mirror Play — Discovering Faces](#-mirror-play--discovering-faces)
+- [🎶 Sound and Joyful Reactions](#-sound-and-joyful-reactions)
+- [☁️ Her Play and Sleep Space](#️-her-play-and-sleep-space)
+- [💬 Constant Communication](#-constant-communication)
+- [🌈 Summary](#-summary)
+- [📄 License](#-license)
+
 # 🎨 Sensory Play Journal for My Little Daughter
 
 A personal project documenting **sensory play activities** and **simple home exercises** for the development of my little daughter.  
@@ -29,15 +50,6 @@ The goal is to **engage the baby in age-appropriate activities** from day one, s
 
 > **Scientific note:** High-contrast patterns are easiest for newborns to see and stimulate visual cortex development.  
 > **Tummy time** is recommended by pediatricians to strengthen neck & shoulder muscles and prevent flat head syndrome.
-
-## 🗂 Project Structure
-
-sensory-play-journal/
-├── README.md
-├── sensory-games/ # sensory activities by month
-├── milestones/ # developmental milestones & observations
-├── reflections/ # reactions & favorite activities
-└── notes/ # parenting notes & scientific references
 
 ## 🌱 Future Ideas
 
